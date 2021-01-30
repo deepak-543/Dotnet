@@ -12,5 +12,5 @@ artifacts:
   files:
     - 'build_output/appsettings*'
     - 'build_output/dotnet*'
-    - 'build_output/web.config'
+  
   base-directory: ./bin/release/netcoreapp3.1
