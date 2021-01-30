@@ -26,9 +26,8 @@ phases:
       - cd testing
       - zip ../test.zip *
       - aws s3 cp ../test.zip s3://dotset
+      - touch abc.txt
       
 artifacts:
   files:
-    - testing/appsettings*
-    - testing/dotnet*
-    - testing/web.config
+    - abc.txt
