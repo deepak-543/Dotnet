@@ -10,5 +10,5 @@ phases:
       - dotnet publish -c release -o ./build_output dotnet-core-tutorial.csproj
 artifacts:
   files:
-    - 'build_output/*'
-  base-directory: ./bin/release/netcoreapp3.1
+    - '**/*'
+  base-directory: ./bin/Release/netcoreapp3.1/linux-x64/publish/
