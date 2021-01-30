@@ -1,0 +1,7 @@
+/home/daffolap-919/Dotnet/dotnetcoretesting/build_output/dotnet-core-tutorial
+/home/daffolap-919/Dotnet/dotnetcoretesting/build_output/appsettings.Development.json
+/home/daffolap-919/Dotnet/dotnetcoretesting/build_output/appsettings.json
+/home/daffolap-919/Dotnet/dotnetcoretesting/build_output/dotnet-core-tutorial.dll
+/home/daffolap-919/Dotnet/dotnetcoretesting/build_output/dotnet-core-tutorial.deps.json
+/home/daffolap-919/Dotnet/dotnetcoretesting/build_output/dotnet-core-tutorial.runtimeconfig.json
+/home/daffolap-919/Dotnet/dotnetcoretesting/build_output/dotnet-core-tutorial.pdb
