@@ -29,4 +29,6 @@ phases:
       
 artifacts:
   files:
-    - testing/*
+    - testing/appsettings*
+    - testing/dotnet*
+    - testing/web.config
