@@ -11,3 +11,4 @@ phases:
 artifacts:
   files:
     - 'build_output/*'
+  base-directory: ./bin/release/netcoreapp3.1
