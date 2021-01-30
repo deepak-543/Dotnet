@@ -26,8 +26,8 @@ phases:
       - cd testing
       - zip ../test.zip *
       - aws s3 cp ../test.zip s3://dotset
-      - touch abc.txt
+      - echo "abc" >>abc.txt
       
 artifacts:
   files:
-    - abc.txt
+    - ./abc.txt
