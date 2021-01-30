@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/daffolap-919/.dotnet/store/|arch|/|tfm|",
+      "/home/daffolap-919/.nuget/packages"
+    ]
+  }
+}

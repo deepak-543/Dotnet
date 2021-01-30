@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "e6wHaL4bxV0P92w9iNjgQ31uZtJNiqbqJtKXpVC8KFkQb0135h9yX8w7R6hUjpPP1cbXQK2+ymiwM8bOsV3xGg==",
+  "success": true,
+  "projectFilePath": "/home/daffolap-919/Dotnet/dotnetcoretesting/dotnet-core-tutorial.csproj",
+  "expectedPackageFiles": [
+    "/home/daffolap-919/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/home/daffolap-919/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/home/daffolap-919/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.11/microsoft.netcore.app.host.linux-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}
