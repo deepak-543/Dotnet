@@ -32,7 +32,7 @@ namespace dotnet_core_tutorial
             {
                 endpoints.MapGet("/", async context =>
                 {
-                    await context.Response.WriteAsync("Hello World!Welcome My friend hope you are fine on the Core .Net");
+                    await context.Response.WriteAsync("Hello World!My  Welcome My friend hope you are fine on the Core .Net");
                 });
             });
         }
