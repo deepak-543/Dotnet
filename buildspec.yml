@@ -25,7 +25,7 @@ phases:
       - dotnet publish -o testing
       - cd testing
       - zip ../test.zip *
-      - aws s3 cp ../test.zip s3://lamp-s3/
+      - aws s3 cp ../test.zip s3://dotset
       
 artifacts:
   files:
