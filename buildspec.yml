@@ -11,4 +11,4 @@ phases:
 artifacts:
   files:
     - '**/*'
-  base-directory: ./bin/Release/netcoreapp3.1/linux-x64/publish/
+  base-directory: ./bin/release/netcoreapp3.1
